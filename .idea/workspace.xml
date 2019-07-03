@@ -1,0 +1,1225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f481b9b2-a4ea-4be8-902c-a4068a1d8ebe" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="LLAdvisedSupport.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/support/LLAdvisedSupport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1064">
+              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LLAdvice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAdvice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Method.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-7">
+              <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/ReflectTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LLBeanWrapper.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/LLBeanWrapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LLAfterReturningAdviceInterceptor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAfterReturningAdviceInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LLAutowired.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/annotation/LLAutowired.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LLAbstractAspectAdvice.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAbstractAspectAdvice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LLMethodInvocation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/inpercept/LLMethodInvocation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/spring-framework-5.0.2.RELEASE" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/mvc/annotation/beans.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/mvc/beans/LLBeanFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/mvc/context/LLAbstarctApplicationContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/mvc/context/support/LLAbstarctApplicationContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/mvc/context/support/LLApplicationContextAware.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/mvc/beans/config/LLBeanDefinition.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/mvc/context/LLAplicationContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/mvc/beans/support/LLDefaultListableBeanFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/demo/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/support/BeanDefinitionReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/demo/Config.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/mvc/LLDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/LLBeanFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/LLBeanWrapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/config/LLBeanPostProcessor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/support/LLDefaultListableBeanFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/annotation/LLHandlerMapping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/annotation/LLRequestMapping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/annotation/LLController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/annotation/LLDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/LLDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLModelAndView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLHandlerMapping.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLHandlerAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/support/LLBeanDefinitionReader.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLView.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLViewResolver.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLDispatcherServlet.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/support/LLAopConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLMethodBeforeAdviceIntercepter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAdvice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLJoinPoint.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAbstractAspectAdvice.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/inpercept/LLMethodInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/inpercept/LLMethodInvocation.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLMethodBeforeAdviceInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAfterRetureingAdviceInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAfterReturningAdviceInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAfterThrowingAdviceInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/support/LLAdvisedSupport.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/LLAopProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/LLJdkDynamicAopProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/LLCglibAopProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/context/LLAplicationContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/context/LLApplicationContext.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Reflex.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReflexTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/ReflectTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1280" />
+    <option name="y" value="-188" />
+    <option name="width" value="1920" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="aspect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="inpercept" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="context" type="462c0819:PsiDirectoryNode" />
+              <item name="support" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="example" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring_v2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring_v2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ReflectTest">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReflectTest" />
+      <module name="spring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.swiftdev.example.demo.Test" />
+      <module name="spring" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.swiftdev.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.ReflectTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ReflectTest" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f481b9b2-a4ea-4be8-902c-a4068a1d8ebe" name="Default" comment="" />
+      <created>1555904442895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555904442895</updated>
+      <workItem from="1555904447157" duration="516000" />
+      <workItem from="1555914075118" duration="5807000" />
+      <workItem from="1555922229601" duration="7036000" />
+      <workItem from="1557974018310" duration="2729000" />
+      <workItem from="1560305998028" duration="46000" />
+      <workItem from="1560933227313" duration="257000" />
+      <workItem from="1560933514926" duration="33764000" />
+      <workItem from="1561110129014" duration="64000" />
+      <workItem from="1561110294060" duration="2249000" />
+      <workItem from="1561341984160" duration="11113000" />
+      <workItem from="1561368952298" duration="10499000" />
+      <workItem from="1561540963555" duration="22676000" />
+      <workItem from="1561970358182" duration="2143000" />
+      <workItem from="1561973278926" duration="27243000" />
+      <workItem from="1562134284213" duration="356000" />
+      <workItem from="1562134859191" duration="1343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="127841000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1280" y="-188" width="1920" height="1057" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32977587" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.48986125" visible="true" weight="0.29020235" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="JProfiler" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.51013875" side_tool="true" visible="true" weight="0.29020235" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32977587" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" visible="true" weight="0.32977587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/AbstractList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1007">
+          <caret line="76" column="5" selection-start-line="76" selection-start-column="5" selection-end-line="76" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/webdefault.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/demo/Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar!/javax/servlet/http/HttpServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="19" column="48" selection-start-line="19" selection-start-column="48" selection-end-line="19" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar!/javax/servlet/GenericServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="40" column="68" selection-start-line="40" selection-start-column="4" selection-end-line="40" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/core/LLBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/core/LLFactoryBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="221" column="31" selection-start-line="221" selection-start-column="31" selection-end-line="221" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/context/support/LLAbstarctApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/context/support/LLApplicationContextAware.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="50" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/annotation/LLController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62947">
+          <caret line="3410" column="34" selection-start-line="3410" selection-start-column="34" selection-end-line="3410" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/annotation/LLService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/annotation/LLRequestParam.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/annotation/LLRequestMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar!/javax/servlet/ServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLHandlerMapping.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="36" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.4/servlet-api-2.4.jar!/javax/servlet/http/HttpServletRequest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/support/LLBeanDefinitionReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1710">
+          <caret line="99" column="27" selection-start-line="99" selection-start-column="27" selection-end-line="99" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/support/LLDefaultListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/regex/Matcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11134">
+          <caret line="621" column="19" selection-start-line="621" selection-start-column="19" selection-end-line="621" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#488#489#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="988">
+          <caret line="62" column="79" selection-start-line="62" selection-start-column="79" selection-end-line="62" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#468#469#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLModelAndView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLDispatcherServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1938">
+          <caret line="119" column="9" selection-start-line="119" selection-start-column="9" selection-end-line="119" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/webmvc/servlet/LLViewResolver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/config/LLAopConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/inpercept/LLMethodInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLMethodBeforeAdviceInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLJoinPoint.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAfterThrowingAdviceInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#573#574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/config/LLBeanPostProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/config/LLBeanDefinition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/LLAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/LLCglibAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <element signature="e#276#277#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#236#237#0" expanded="true" />
+            <element signature="e#263#264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/cn.swiftdev.example.framework.context.LLApplicationContext">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>cn.swiftdev.example.framework.context.LLApplicationContext</OriginalElement>
+          <nodes>
+            <node x="220.0" y="484.0">cn.swiftdev.example.framework.aop.support.LLAdvisedSupport</node>
+            <node x="161.61111111111114" y="79.0">cn.swiftdev.example.framework.aop.aspect.LLAbstractAspectAdvice</node>
+            <node x="568.0" y="178.0">cn.swiftdev.example.framework.aop.aspect.LLMethodBeforeAdviceInterceptor</node>
+            <node x="0.0" y="252.0">cn.swiftdev.example.framework.context.support.LLAbstarctApplicationContext</node>
+            <node x="285.0" y="178.0">cn.swiftdev.example.framework.aop.aspect.LLAfterThrowingAdviceInterceptor</node>
+            <node x="426.0" y="484.0">cn.swiftdev.example.framework.aop.config.LLAopConfig</node>
+            <node x="254.5" y="331.0">cn.swiftdev.example.framework.core.LLBeanFactory</node>
+            <node x="551.0" y="252.0">cn.swiftdev.example.framework.aop.LLAopProxy</node>
+            <node x="28.5" y="484.0">cn.swiftdev.example.framework.aop.aspect.LLJoinPoint</node>
+            <node x="0.0" y="178.0">cn.swiftdev.example.framework.aop.aspect.LLAfterReturningAdviceInterceptor</node>
+            <node x="479.712962962963" y="79.0">cn.swiftdev.example.framework.aop.inpercept.LLMethodInterceptor</node>
+            <node x="128.75" y="410.0">cn.swiftdev.example.framework.context.LLApplicationContext</node>
+            <node x="611.5" y="331.0">cn.swiftdev.example.framework.aop.LLJdkDynamicAopProxy</node>
+            <node x="2.5" y="331.0">cn.swiftdev.example.framework.beans.support.LLDefaultListableBeanFactory</node>
+            <node x="436.5" y="331.0">cn.swiftdev.example.framework.aop.LLCglibAopProxy</node>
+            <node x="314.75" y="0.0">cn.swiftdev.example.framework.aop.aspect.LLAdvice</node>
+            <node x="0.0" y="563.0">cn.swiftdev.example.framework.aop.inpercept.LLMethodInvocation</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="cn.swiftdev.example.framework.aop.aspect.LLAfterThrowingAdviceInterceptor" target="cn.swiftdev.example.framework.aop.aspect.LLAbstractAspectAdvice">
+              <point x="-87.66666666666669" y="-14.5" />
+              <point x="328.8333333333333" y="138.0" />
+              <point x="261.61111111111114" y="138.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.inpercept.LLMethodInvocation" target="cn.swiftdev.example.framework.aop.aspect.LLJoinPoint">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.LLJdkDynamicAopProxy" target="cn.swiftdev.example.framework.aop.LLAopProxy">
+              <point x="0.0" y="-14.5" />
+              <point x="710.0" y="306.0" />
+              <point x="642.5" y="306.0" />
+              <point x="30.5" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.aspect.LLAfterReturningAdviceInterceptor" target="cn.swiftdev.example.framework.aop.inpercept.LLMethodInterceptor">
+              <point x="88.33333333333337" y="-14.5" />
+              <point x="220.83333333333337" y="148.0" />
+              <point x="509.3796296296297" y="148.0" />
+              <point x="-59.33333333333334" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.LLCglibAopProxy" target="cn.swiftdev.example.framework.aop.LLAopProxy">
+              <point x="0.0" y="-14.5" />
+              <point x="514.0" y="306.0" />
+              <point x="581.5" y="306.0" />
+              <point x="-30.5" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.aspect.LLMethodBeforeAdviceInterceptor" target="cn.swiftdev.example.framework.aop.inpercept.LLMethodInterceptor">
+              <point x="0.0" y="-14.5" />
+              <point x="697.5" y="158.0" />
+              <point x="628.0462962962963" y="158.0" />
+              <point x="59.333333333333314" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.context.LLApplicationContext" target="cn.swiftdev.example.framework.beans.support.LLDefaultListableBeanFactory">
+              <point x="-46.0" y="-14.5" />
+              <point x="174.75" y="385.0" />
+              <point x="118.5" y="385.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.aspect.LLAfterReturningAdviceInterceptor" target="cn.swiftdev.example.framework.aop.aspect.LLAbstractAspectAdvice">
+              <point x="0.0" y="-14.5" />
+              <point x="132.5" y="158.0" />
+              <point x="194.94444444444446" y="158.0" />
+              <point x="-66.66666666666669" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.aspect.LLAfterThrowingAdviceInterceptor" target="cn.swiftdev.example.framework.aop.inpercept.LLMethodInterceptor">
+              <point x="87.66666666666669" y="-14.5" />
+              <point x="504.1666666666667" y="158.0" />
+              <point x="568.712962962963" y="158.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.context.LLApplicationContext" target="cn.swiftdev.example.framework.core.LLBeanFactory">
+              <point x="46.0" y="-14.5" />
+              <point x="266.75" y="385.0" />
+              <point x="323.0" y="385.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.aspect.LLAbstractAspectAdvice" target="cn.swiftdev.example.framework.aop.aspect.LLAdvice">
+              <point x="0.0" y="-14.5" />
+              <point x="261.61111111111114" y="59.0" />
+              <point x="353.75" y="59.0" />
+              <point x="-13.0" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.aspect.LLAfterThrowingAdviceInterceptor" target="cn.swiftdev.example.framework.aop.aspect.LLAdvice">
+              <point x="0.0" y="-14.5" />
+              <point x="416.5" y="138.0" />
+              <point x="422.0" y="138.0" />
+              <point x="422.0" y="59.0" />
+              <point x="379.75" y="59.0" />
+              <point x="13.0" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.aspect.LLMethodBeforeAdviceInterceptor" target="cn.swiftdev.example.framework.aop.aspect.LLAdvice">
+              <point x="86.33333333333331" y="-14.5" />
+              <point x="783.8333333333333" y="158.0" />
+              <point x="772.6851851851852" y="158.0" />
+              <point x="772.6851851851852" y="49.0" />
+              <point x="405.75" y="49.0" />
+              <point x="39.0" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.beans.support.LLDefaultListableBeanFactory" target="cn.swiftdev.example.framework.context.support.LLAbstarctApplicationContext">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.aspect.LLMethodBeforeAdviceInterceptor" target="cn.swiftdev.example.framework.aop.aspect.LLAbstractAspectAdvice">
+              <point x="-86.33333333333331" y="-14.5" />
+              <point x="611.1666666666667" y="128.0" />
+              <point x="328.27777777777777" y="128.0" />
+              <point x="66.66666666666663" y="14.5" />
+            </edge>
+            <edge source="cn.swiftdev.example.framework.aop.aspect.LLAfterReturningAdviceInterceptor" target="cn.swiftdev.example.framework.aop.aspect.LLAdvice">
+              <point x="-88.33333333333326" y="-14.5" />
+              <point x="44.16666666666674" y="158.0" />
+              <point x="49.638888888888914" y="158.0" />
+              <point x="49.638888888888914" y="49.0" />
+              <point x="327.75" y="49.0" />
+              <point x="-39.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-236.0" y="-33.0" />
+          <SelectedNodes>
+            <node>cn.swiftdev.example.framework.context.LLApplicationContext</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/util/regex/Pattern.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="1085" column="19" selection-start-line="1085" selection-start-column="19" selection-end-line="1085" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/context/LLApplicationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/LLJdkDynamicAopProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/beans/LLBeanWrapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/inpercept/LLMethodInvocation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAbstractAspectAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="42" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/support/LLAdvisedSupport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1064">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/aop/aspect/LLAfterReturningAdviceInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/swiftdev/example/framework/annotation/LLAutowired.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="28" lean-forward="true" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: javax.servlet:servlet-api:2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
